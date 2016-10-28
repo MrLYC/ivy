@@ -54,3 +54,4 @@ setup_linker() {
 }
 
 setup_linker
+exec $@
